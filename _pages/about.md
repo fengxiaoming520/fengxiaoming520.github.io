@@ -36,7 +36,7 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 
 [Controlling Neural Style Transfer with Deep Reinforcement Learning](https://www.ijcai.org/proceedings/2023/0012.pdf)
 
-<u>{Chengming Feng}^*</u>, {Jing Hu}^*, Xin Wang, Shu Hu, Bin Zhu, Xi Wu, Hongtu Zhu, Siwei Lyu (*: co-first author)
+<u>{Chengming Feng}^{\*}</u>, {Jing Hu}^{\*}, Xin Wang, Shu Hu, Bin Zhu, Xi Wu, Hongtu Zhu, Siwei Lyu ({\*}: co-first author)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
