@@ -36,14 +36,12 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 
 [Controlling Neural Style Transfer with Deep Reinforcement Learning](https://www.ijcai.org/proceedings/2023/0012.pdf)
 
-<u>Chengming Feng</u>, Jing Hu, Xin Wang, Shu Hu, Bin Zhu, Xi Wu, Hongtu Zhu, Siwei Lyu 
+<u>Chengming Feng</u>\*, Jing Hu\*, Xin Wang, Shu Hu, Bin Zhu, Xi Wu, Hongtu Zhu, Siwei Lyu 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**<font color = "#224B8D">IJCAI 2023</font>** \| [Paper](https://arxiv.org/abs/2310.00405)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024* **The First Prize Scholarship**, Chengdu University of Information Technology.
@@ -64,4 +62,4 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.04 - 2020.05*, China International Freight Airlines, China.
