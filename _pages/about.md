@@ -43,14 +43,14 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024* The First Prize Scholarship, Chengdu University of Information Technology.
-- *2023* The Third Prize Scholarship, Chengdu University of Information Technology.
-- *2022* The Third Prize Scholarship, Chengdu University of Information Technology.
-- *2020* Outstanding Graduates, Chengdu University of Information Technolog
-- *2020* The Second Prize Scholarship, Chengdu University of Information Technology.
-- *2019* The First Prize Scholarship, Chengdu University of Information Technology.
-- *2018* The First Prize Scholarship, Chengdu University of Information Technology.
-- *2017* The Third Prize Scholarship, Chengdu University of Information Technology.
+- *2024* **The First Prize Scholarship**, Chengdu University of Information Technology.
+- *2023* **The Third Prize Scholarship**, Chengdu University of Information Technology.
+- *2022* **The Third Prize Scholarship**, Chengdu University of Information Technology.
+- *2020* **Outstanding Graduates**, Chengdu University of Information Technolog
+- *2020* **The Second Prize Scholarship**, Chengdu University of Information Technology.
+- *2019* **The First Prize Scholarship**, Chengdu University of Information Technology.
+- *2018* **The First Prize Scholarship**, Chengdu University of Information Technology.
+- *2017* **The Third Prize Scholarship**, Chengdu University of Information Technology.
 
 # 📖 Educations
 - *2021.09 - present*, Graduate, Chengdu University of Information Technology. 
