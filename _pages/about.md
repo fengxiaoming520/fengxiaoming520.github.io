@@ -36,6 +36,7 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 <div class='paper-box-text' markdown="1">
 
 [Deep Reinforcement Learning for Image-to-Image Translation](https://arxiv.org/abs/2309.13672)
+
 Xin Wang, Ziwei Luo, Jing Hu, <u>Chengming Feng</u>, Shu Hu, Bin Zhu, Xi Wu, Siwei Lyu
 
 **<font color = "#224B8D">Arxiv</font>** \| [Paper](https://arxiv.org/abs/2309.13672)
