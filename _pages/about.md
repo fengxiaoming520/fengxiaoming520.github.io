@@ -27,6 +27,7 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 One paper is published on arxiv.
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI 2023). 
 
 # 📝 Publications 
@@ -41,6 +42,12 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 **<font color = "#224B8D">IJCAI 2023</font>** \| [Paper](https://arxiv.org/abs/2310.00405)
 </div>
 </div>
+
+<!-- ###################################################### -->
+
+- **NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results**  
+Yawei Li, \cdots, <u>Chengming Feng</u>, Ziwei Luo, Shu Hu, Siwei Lyu, Xi Wu, Xin Wang
+***<font color = "#224B8D">NTIRE 2023</font>*** \| [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)]
 
 
 # 🎖 Honors and Awards
