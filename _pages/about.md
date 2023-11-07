@@ -46,7 +46,7 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 <!-- ###################################################### -->
 
 - **NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results**  
-Yawei Li, \cdots, <u>Chengming Feng</u>, Ziwei Luo, Shu Hu, Siwei Lyu, Xi Wu, Xin Wang
+Yawei Li, ..., <u>Chengming Feng</u>, Ziwei Luo, Shu Hu, Siwei Lyu, Xi Wu, Xin Wang
 ***<font color = "#224B8D">NTIRE 2023</font>*** \| [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)]
 
 
