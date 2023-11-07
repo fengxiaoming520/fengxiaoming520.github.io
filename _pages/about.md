@@ -32,7 +32,7 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ijcai2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/arxiv202309.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Reinforcement Learning for Image-to-Image Translation](https://arxiv.org/abs/2309.13672)
