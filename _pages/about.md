@@ -33,14 +33,14 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/arxiv202309.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/arxiv202309.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation](https://arxiv.org/abs/2505.04424)
 
 Jing Hu, <u>Chengming Feng</u>, Shu Hu, Ming-Ching Chang, Xin Li, Xi Wu and Xin Wang
 
-**<font color = "#224B8D">Arxiv</font>** \| [Paper](https://arxiv.org/abs/2505.04424)
+**<font color = "#224B8D">IJCAI 2025</font>** \| [Paper](https://arxiv.org/abs/2505.04424)
 </div>
 </div>
 
