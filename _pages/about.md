@@ -27,10 +27,22 @@ Before that, I obtained the Bachelor degree from Chengdu University of Informati
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI 2025). 
 - *2023.09*: &nbsp;🎉🎉 One paper is published on arxiv.
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by International Joint Conferences on Artificial Intelligence (IJCAI 2023). 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/arxiv202309.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation](https://arxiv.org/abs/2505.04424)
+
+Jing Hu, <u>Chengming Feng</u>, Shu Hu, Ming-Ching Chang, Xin Li, Xi Wu and Xin Wang
+
+**<font color = "#224B8D">Arxiv</font>** \| [Paper](https://arxiv.org/abs/2505.04424)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/arxiv202309.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,7 +84,7 @@ Yawei Li, ..., <u>Chengming Feng</u>, Ziwei Luo, Shu Hu, Siwei Lyu, Xi Wu, Xin W
 - *2017* **The Third Prize Scholarship**, Chengdu University of Information Technology.
 
 # 📖 Educations
-- *2021.09 - present*, Graduate, Chengdu University of Information Technology. 
+- *2021.09 - 2024.06*, Graduate, Chengdu University of Information Technology. 
 - *2016.09 - 2020.06*, Undergraduate, Chengdu University of Information Technology. 
 
 <!--# 💬 Invited Talks
